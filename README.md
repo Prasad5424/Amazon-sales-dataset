@@ -28,3 +28,10 @@ Review Category:
 Categorizes products based on their review rating into groups such as Excellent, Good, Average, and Poor.
 
 These measures enhance the analytical depth of the dashboard and provide actionable insights for business stakeholders.
+
+📌 Highlights:
+Identified Top 10 products that received highest customer reviews
+
+Analyzed correlation between high review scores and profitability
+
+Segmented product categories based on review quality
