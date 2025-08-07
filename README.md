@@ -35,3 +35,22 @@ Identified Top 10 products that received highest customer reviews
 Analyzed correlation between high review scores and profitability
 
 Segmented product categories based on review quality
+
+🎯 Interactive Features:
+A Product Name Slicer was created:
+
+On selecting a product, users can view:
+
+Product name
+
+Category
+
+Actual Price
+
+Discounted Price
+
+Rating
+
+Image Link
+
+Product Purchase Link
